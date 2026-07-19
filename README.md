@@ -7,7 +7,6 @@
 | ファイル | 効き方 |
 |---|---|
 | `pull_request_template.md` | org の全リポで PR 作成時に出る雛形。自前の `.github/pull_request_template.md` を持つリポはそちらが勝つ |
-| `profile/README.md` | 公開の org プロフィールページ（https://github.com/computerlib ）に出る |
 
 ## 気をつけること
 
